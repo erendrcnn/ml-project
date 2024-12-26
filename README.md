@@ -6,6 +6,8 @@ This project focuses on using machine learning techniques to solve the **Minimum
 
 In this work, we employ machine learning models to classify and analyze graph structures, leveraging their features to predict optimal or near-optimal bisections.
 
+Document: [Paper.pdf](https://github.com/erendrcnn/ml-project/blob/main/Graph%20Classification%20for%20Minimum%20Bisection%20Problem%20using%20Machine%20Learning.pdf)
+
 ---
 
 ## Table of Contents
